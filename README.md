@@ -1,4 +1,4 @@
-## Hello World! I'm Glaubert <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true' width='10px'>
+## Hello World! I'm Glaubert 
 :computer: I'm network analyst and DevOps enthusiast
 
 :house_with_garden: I’m from Brazil.
