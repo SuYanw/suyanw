@@ -6,7 +6,9 @@
 :hearts: Lover of Technology and Coding
 
 ## Language and Tools
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyanw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyanw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Python, Elixir
+Mysql, Postgres
+
 
 
 ## About me
