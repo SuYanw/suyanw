@@ -6,9 +6,8 @@
 :hearts: Lover of Technology and Coding
 
 ## Language and Tools
-Python, Elixir
-Mysql, Postgres
-
+Python, Elixir <br />
+MySQL, Postgres <br />
 
 
 ## About me
