@@ -1,7 +1,7 @@
 ## Hello World!  
-:computer: I'm network analyst and Dev enthusiast
-:house_with_garden: I’m from Brazil.
-:hearts: Lover of Technology and Coding
+:computer: I'm network analyst and Dev enthusiast <br />
+:house_with_garden: I’m from Brazil. <br />
+:hearts: Lover of Technology and Coding <br />
 
 ## Language and Tools
 Python, Elixir <br />
