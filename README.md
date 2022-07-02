@@ -1,8 +1,6 @@
-## Hello World! I'm Glaubert 
-:computer: I'm network analyst and DevOps enthusiast
-
+## Hello World!  
+:computer: I'm network analyst and Dev enthusiast
 :house_with_garden: I’m from Brazil.
-
 :hearts: Lover of Technology and Coding
 
 ## Language and Tools
